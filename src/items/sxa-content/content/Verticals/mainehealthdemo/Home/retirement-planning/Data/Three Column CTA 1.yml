@@ -1,0 +1,133 @@
+﻿---
+ID: "7ac25a53-a7cd-41cd-9c87-5aa2eb042ad4"
+Parent: "bf477876-125d-4e61-8fbb-5f35717d4d60"
+Template: "148d07ba-f923-4fb2-8907-0bd440d5db44"
+Path: "/sitecore/content/Verticals/mainehealthdemo/Home/retirement-planning/Data/Three Column CTA 1"
+SharedFields:
+- ID: "39b3d592-0895-4f30-9c17-454b171f0b2e"
+  Hint: Image3
+  Value: |
+    <image mediaid="{57D3147E-06F1-4F93-9621-C41816B910F0}" alt="Woman on beach looking at sunset" height="" width="" hspace="" vspace="" />
+- ID: "39fe4fb3-3794-4b9a-a584-ff877e93e33b"
+  Hint: Image2
+  Value: |
+    <image mediaid="{B09332F7-1298-4C68-8745-C18B3F71DEB6}" alt="Multiple flowers lined up to signify growth" height="" width="" hspace="" vspace="" />
+- ID: "c511247c-fec1-4690-81d6-ce791da18d4a"
+  Hint: Image1
+  Value: |
+    <image mediaid="{0E7F5C5C-C384-4B58-8AD4-CDCD1CD5590B}" alt="Woman ironing" height="" width="" hspace="" vspace="" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0a10d09c-166b-464e-99cb-4401b527f3f2"
+      Hint: Link2
+      Value: |
+        <link linktype="internal" id="4D212108-AFDD-4CFD-AC6F-76678006DA01" anchor="" querystring="" target="" class="" text="Get started" title=""/>
+    - ID: "2731b4d6-b866-466a-9731-5161788d662b"
+      Hint: SubText2
+      Value: Investing doesn't stop at retirement. We'll help you invest responsibly in retirement.
+    - ID: "277e3acc-b359-4c11-88b9-4016574419dc"
+      Hint: Link3
+      Value: |
+        <link linktype="internal" id="47B6A9BD-539E-434C-B772-207BC7BE4F70" anchor="" querystring="" target="" class="" text="Get started" title=""/>
+    - ID: "34f6d379-9a96-4cb8-839f-0d224a4f6db1"
+      Hint: Text2
+      Value: Building wealth
+    - ID: "4c50be2f-021e-4846-abb0-50feb2df5eed"
+      Hint: SubText1
+      Value: It is important to develop a retirement strategy to live on the money you have saved.
+    - ID: "5264d7eb-64cd-4203-98e5-a4d0380f57e6"
+      Hint: Text1
+      Value: Living in retirement
+    - ID: "5eb6058f-3f45-4dd4-8153-8c74390859f4"
+      Hint: Text3
+      Value: Estate planning
+    - ID: "63e1abec-67cb-4aea-ab72-8b5b60b69473"
+      Hint: Link1
+      Value: |
+        <link linktype="internal" id="2CE2C44E-1338-4D1D-9C84-3F52AB49C434" anchor="" querystring="" target="" class="" text="Get started" title=""/>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f6e359a1-596e-4cce-9c7a-3eb1015b7aeb"
+    - ID: "a3a36b2d-a20b-4344-9f1d-ad867cb99aa4"
+      Hint: SubText3
+      Value: Being prepared is important for you and your family. At any stage of life, a proper estate plan can be a great investment.
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a10d09c-166b-464e-99cb-4401b527f3f2"
+      Hint: Link2
+      Value: |
+        <link linktype="internal" id="4D212108-AFDD-4CFD-AC6F-76678006DA01" anchor="" querystring="" target="" class="" text="Commencez" title=""/>
+    - ID: "2731b4d6-b866-466a-9731-5161788d662b"
+      Hint: SubText2
+      Value: L'investissement ne s'arrête pas à la retraite. Nous vous aiderons à investir de manière responsable pendant votre retraite.
+    - ID: "277e3acc-b359-4c11-88b9-4016574419dc"
+      Hint: Link3
+      Value: |
+        <link linktype="internal" id="47B6A9BD-539E-434C-B772-207BC7BE4F70" anchor="" querystring="" target="" class="" text="Commencez" title=""/>
+    - ID: "34f6d379-9a96-4cb8-839f-0d224a4f6db1"
+      Hint: Text2
+      Value: Bâtir son patrimoine
+    - ID: "4c50be2f-021e-4846-abb0-50feb2df5eed"
+      Hint: SubText1
+      Value: Il est important de développer une stratégie de retraite pour vivre de l'argent que vous avez épargné.
+    - ID: "5264d7eb-64cd-4203-98e5-a4d0380f57e6"
+      Hint: Text1
+      Value: Vivre à la retraite
+    - ID: "5eb6058f-3f45-4dd4-8153-8c74390859f4"
+      Hint: Text3
+      Value: Planification de la succession
+    - ID: "63e1abec-67cb-4aea-ab72-8b5b60b69473"
+      Hint: Link1
+      Value: |
+        <link linktype="internal" id="2CE2C44E-1338-4D1D-9C84-3F52AB49C434" anchor="" querystring="" target="" class="" text="Commencez" title=""/>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "53db5e77-3e9c-4868-8761-8245edb5bfff"
+    - ID: "a3a36b2d-a20b-4344-9f1d-ad867cb99aa4"
+      Hint: SubText3
+      Value: Être préparé est important pour vous et votre famille. À n'importe quel stade de la vie, un plan successoral approprié peut être un excellent investissement.
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a10d09c-166b-464e-99cb-4401b527f3f2"
+      Hint: Link2
+      Value: |
+        <link text="はじめる" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{4D212108-AFDD-4CFD-AC6F-76678006DA01}" />
+    - ID: "2731b4d6-b866-466a-9731-5161788d662b"
+      Hint: SubText2
+      Value: 投資は定年退職後に終わりではない。 退職後も責任ある投資をお手伝いします。
+    - ID: "277e3acc-b359-4c11-88b9-4016574419dc"
+      Hint: Link3
+      Value: |
+        <link text="はじめる" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{47B6A9BD-539E-434C-B772-207BC7BE4F70}" />
+    - ID: "34f6d379-9a96-4cb8-839f-0d224a4f6db1"
+      Hint: Text2
+      Value: 資産を作る
+    - ID: "4c50be2f-021e-4846-abb0-50feb2df5eed"
+      Hint: SubText1
+      Value: 貯めたお金で生活していくためには、退職後の戦略を立てることが重要である。
+    - ID: "5264d7eb-64cd-4203-98e5-a4d0380f57e6"
+      Hint: Text1
+      Value: 引退後の生活
+    - ID: "5eb6058f-3f45-4dd4-8153-8c74390859f4"
+      Hint: Text3
+      Value: 遺産計画
+    - ID: "63e1abec-67cb-4aea-ab72-8b5b60b69473"
+      Hint: Link1
+      Value: |
+        <link text="はじめる" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{2CE2C44E-1338-4D1D-9C84-3F52AB49C434}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "37d20f16-9754-41a3-8f3b-303dc8286e48"
+    - ID: "a3a36b2d-a20b-4344-9f1d-ad867cb99aa4"
+      Hint: SubText3
+      Value: 備えあれば憂いなし。 人生のどの段階においても、適切な財産設計は大きな投資となる。

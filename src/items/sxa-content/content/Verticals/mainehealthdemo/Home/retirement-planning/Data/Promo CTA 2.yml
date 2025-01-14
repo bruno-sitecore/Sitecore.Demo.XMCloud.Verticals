@@ -1,0 +1,56 @@
+﻿---
+ID: "92b3875f-3df8-4fe5-9d77-2e7378a27824"
+Parent: "bf477876-125d-4e61-8fbb-5f35717d4d60"
+Template: "c0943942-ae0f-4205-86fa-84884cce4a53"
+Path: "/sitecore/content/Verticals/mainehealthdemo/Home/retirement-planning/Data/Promo CTA 2"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 275
+- ID: "e495efd3-5c43-45fc-af43-796a6b503716"
+  Hint: Image
+  Value: |
+    <image mediaid="{A451F944-3571-408A-A3A5-DA41785894B0}" alt="Mobile phone showing investment dashboard" height="" width="" hspace="" vspace="" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: Make the most of your unused retirement account room
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a9e3e0f8-1c6c-4bf3-8f31-cae3866b03a2"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: "<p>Make sure to benefit from retirement contributions while you can!</p>"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: "Profitez au maximum de votre espace inutilisé dans votre compte d'épargne-retraite"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e9fd9c5e-0a73-4922-aea2-61384f36cd0e"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: "<p>Assurez-vous de profiter des contributions à la retraite tant que vous le pouvez !</p>"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: 未使用の退職金口座を最大限に活用する
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dbb17a0d-47e7-4c55-a6a3-cfd81b59a7b8"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: <p>今のうちに退職金の恩恵にあずかろう！</p>

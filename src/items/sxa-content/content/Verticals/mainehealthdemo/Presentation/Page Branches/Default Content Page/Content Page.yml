@@ -1,0 +1,31 @@
+﻿---
+ID: "c24215ec-b834-43d2-ba79-6ea61bf287a2"
+Parent: "396bdcb5-081d-4c8d-af13-a352d958cc49"
+Template: "35e75c72-4985-4e09-88c3-0eac6cd1e64f"
+Path: /sitecore/content/Verticals/mainehealthdemo/Presentation/Page Branches/Default Content Page/Content Page
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Apps/32x32/logviewer.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4221cd4a-b94d-482c-9304-5ce9346eafce"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0ca065b6-32b6-4b96-9085-5f6b874af185"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f1b1420a-469d-426e-b604-f7fb49b8e3bb"

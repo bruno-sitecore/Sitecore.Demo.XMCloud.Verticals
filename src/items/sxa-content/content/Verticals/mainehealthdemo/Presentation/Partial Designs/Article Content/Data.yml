@@ -1,0 +1,27 @@
+﻿---
+ID: "3d2536a0-69ee-4afe-bcfc-5f7f7bebce5c"
+Parent: "96b5fe2c-f4a9-4013-9619-209c18699dd5"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Verticals/mainehealthdemo/Presentation/Partial Designs/Article Content/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "76ccfc35-9997-43b3-8c27-8cb8114c3490"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "15e82c62-340e-406b-979a-57a989e592d5"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "15e82c62-340e-406b-979a-57a989e592d5"

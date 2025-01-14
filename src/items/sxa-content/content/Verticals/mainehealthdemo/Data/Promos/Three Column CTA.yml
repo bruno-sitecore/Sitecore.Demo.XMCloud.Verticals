@@ -1,0 +1,27 @@
+﻿---
+ID: "25145419-a67a-4a81-a1cf-5d742eeb0051"
+Parent: "07d140fa-4361-4b50-ace7-042519692b9d"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: /sitecore/content/Verticals/mainehealthdemo/Data/Promos/Three Column CTA
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a57e1011-c61d-4dab-a64a-4d6e10e7ddf4"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0956570b-d85c-4225-9071-907beaf0975a"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0956570b-d85c-4225-9071-907beaf0975a"

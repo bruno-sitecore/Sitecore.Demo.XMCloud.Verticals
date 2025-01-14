@@ -1,0 +1,13 @@
+﻿---
+ID: "1084ad3a-d7b3-4ec8-a9a7-078c5d2b4283"
+Parent: "72939bc0-f296-45b7-8894-8ca39fed7c98"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Verticals/mainehealthdemo/About us
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "03133a63-3ace-4396-a5f5-bccdb68a2d79"

@@ -1,0 +1,31 @@
+﻿---
+ID: "11ae5282-10d3-4b83-a2ad-3ad9bdeaba20"
+Parent: "f47668e1-6b31-42fc-8500-53cbc531f314"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Verticals/mainehealthdemo/Data/Button Styles/Simple
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/button.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c47a9dbc-f7b5-418f-a7d3-c51b81b8829e"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3c6bce44-554f-4ec9-ac0d-eb8c1b8c1e82"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3c6bce44-554f-4ec9-ac0d-eb8c1b8c1e82"

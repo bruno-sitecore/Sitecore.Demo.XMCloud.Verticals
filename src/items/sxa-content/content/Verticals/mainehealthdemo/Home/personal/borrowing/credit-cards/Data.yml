@@ -1,0 +1,35 @@
+﻿---
+ID: "bdc3c015-1dcc-41f0-9f48-7e99a9b5c4cf"
+Parent: "cfd45d80-6a08-426b-88de-e6f9db9f7124"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/mainehealthdemo/Home/personal/borrowing/credit-cards/Data"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "167ca51f-8ae5-418e-948e-17fdaab25503"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e51df86c-be3f-4112-afc1-8d6c79cdfd8e"
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: データ
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "856e8d5b-0376-4ee9-961f-7a44b086b6b1"

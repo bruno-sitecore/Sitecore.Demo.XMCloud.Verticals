@@ -1,0 +1,27 @@
+﻿---
+ID: "07d140fa-4361-4b50-ace7-042519692b9d"
+Parent: "a69d3f23-525e-415a-845f-100d41f09275"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: /sitecore/content/Verticals/mainehealthdemo/Data/Promos
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0e21c173-7f0e-4b35-8cf2-af871b9aac4a"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "491cdebd-157d-412d-8c5f-0208065677e5"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "491cdebd-157d-412d-8c5f-0208065677e5"

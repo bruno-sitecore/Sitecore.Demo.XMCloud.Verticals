@@ -1,0 +1,36 @@
+﻿---
+ID: "08759fc0-72c6-4dc5-ba2c-0ab68022db88"
+Parent: "4d212108-afdd-4cfd-ac6f-76678006da01"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/mainehealthdemo/Home/retirement-planning/building-wealth/Data"
+BranchID: "f4216084-ae14-4cbb-adf1-22292083f63c"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{48320D45-7726-411B-A73D-C377EF2D479C}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aba3e535-b623-4ce9-ab5b-df234fe89fc2"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "28b8758e-ff26-450f-bd69-19b3f8ab6d9a"
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: データ
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f84c12ec-e524-4fb1-a3f5-9581b3a2a0db"

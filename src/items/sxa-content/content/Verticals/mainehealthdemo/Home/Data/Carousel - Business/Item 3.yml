@@ -1,0 +1,62 @@
+﻿---
+ID: "83d863ff-2036-46e7-b136-ae0a54472fb8"
+Parent: "2ed8e7ce-b8f3-4c31-a12c-0e41dc26028f"
+Template: "54db209d-cd0f-49d9-ae4e-ecb65d72cc4d"
+Path: "/sitecore/content/Verticals/mainehealthdemo/Home/Data/Carousel - Business/Item 3"
+SharedFields:
+- ID: "ba78a3c0-7c60-40ba-8d42-6bf559d9ca72"
+  Hint: Image
+  Value: |
+    <image mediaid="{A0E5110B-F988-47B7-A96D-B4BCAC335930}" alt="Man sitting at table with coffee" height="" width="" hspace="" vspace="" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
+      Hint: Title
+      Value: Effective employee management
+    - ID: "3cba1ba9-9f99-4a72-9144-7f02b3bdd158"
+      Hint: Link
+      Value: |
+        <link text="Learn more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{80E60AC7-2883-4477-8F80-62367D67D7C9}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "edda10c8-9136-4331-a3a8-47ff0c6536d3"
+    - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
+      Hint: Text
+      Value: <p>Supercharge your workforce with our comprehensive employee management strategies.</p>
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
+      Hint: Title
+      Value: Gestion efficace des employés
+    - ID: "3cba1ba9-9f99-4a72-9144-7f02b3bdd158"
+      Hint: Link
+      Value: |
+        <link text="En savoir plus" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{80E60AC7-2883-4477-8F80-62367D67D7C9}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4ddc6438-53c8-47d9-8160-386264df99b0"
+    - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
+      Hint: Text
+      Value: <p>Boostez votre effectif avec nos stratégies complètes de gestion des employés.</p>
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
+      Hint: Title
+      Value: 効果的な従業員管理
+    - ID: "3cba1ba9-9f99-4a72-9144-7f02b3bdd158"
+      Hint: Link
+      Value: |
+        <link text="さらに詳しく" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{80E60AC7-2883-4477-8F80-62367D67D7C9}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d3d5a8f7-0f6d-4978-8c1d-c2718ae55dcb"
+    - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
+      Hint: Text
+      Value: <p>当社の包括的な従業員管理戦略で、従業員を強化しましょう。</p>

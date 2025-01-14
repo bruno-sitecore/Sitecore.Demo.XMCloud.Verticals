@@ -1,0 +1,53 @@
+﻿---
+ID: "34db5272-4c92-4c6b-9c9c-887bab3bdbd4"
+Parent: "912e52f5-72dc-4c99-bc75-9a07bc62bcb1"
+Template: "c0943942-ae0f-4205-86fa-84884cce4a53"
+Path: "/sitecore/content/Verticals/mainehealthdemo/Home/business/employee-management/Data/Promo CTA 1"
+SharedFields:
+- ID: "e495efd3-5c43-45fc-af43-796a6b503716"
+  Hint: Image
+  Value: |
+    <image mediaid="{5ED6B7FF-57AC-4560-854C-F3CA6732A574}" alt="Man typing on a laptop" height="" width="" hspace="" vspace="" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: Effective employee management to nurture your talent
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "88d898bd-41fa-43b2-802b-d96758389ba3"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: "<p>Supercharge your workforce with our comprehensive employee management strategies, designed to foster engagement, productivity, and long-term success.</p>"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: Gestion efficace des employés pour cultiver vos talents
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9d4cff16-7916-4e0e-b894-ea11fc04f986"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: <p>Boostez votre effectif avec nos stratégies complètes de gestion des employés, conçues pour favoriser l'engagement, la productivité et le succès à long terme.</p>
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: 有能な人材を育てる効果的な従業員管理
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b1db53b4-9e3a-4d0f-afc7-97acc60cc1e4"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: <p>エンゲージメント、生産性、長期的な成功を促進するために設計された当社の包括的な従業員管理戦略で、従業員を強化しましょう。</p>

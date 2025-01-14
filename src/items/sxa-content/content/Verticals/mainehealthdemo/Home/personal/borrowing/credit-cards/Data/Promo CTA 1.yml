@@ -1,0 +1,53 @@
+﻿---
+ID: "67670d46-5d6d-4c49-a34f-0726776fffc2"
+Parent: "bdc3c015-1dcc-41f0-9f48-7e99a9b5c4cf"
+Template: "c0943942-ae0f-4205-86fa-84884cce4a53"
+Path: "/sitecore/content/Verticals/mainehealthdemo/Home/personal/borrowing/credit-cards/Data/Promo CTA 1"
+SharedFields:
+- ID: "e495efd3-5c43-45fc-af43-796a6b503716"
+  Hint: Image
+  Value: |
+    <image mediaid="{EFCB2AE1-D0EB-442E-AEA6-6E14C80FD3DD}" alt="Person holding a credit card in front of a laptop" height="" width="" hspace="" vspace="" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: Apply for a premium credit card today
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eacc2614-b31c-453a-b92d-154caaa1d278"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: <p>Enjoy competitive rates and flexible payment options to help manage your financial wellbeing.</p>
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: Demandez une carte de crédit premium dès aujourd'hui
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e54ff462-135b-4233-b6b5-a48da4559b57"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: "<p>Profitez de taux compétitifs et d'options de paiement flexibles pour gérer votre bien-être financier.</p>"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: 今すぐプレミアム・クレジットカードを申し込む
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8dd765d2-f18d-4f8a-8f2b-eb1b6ed647d8"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: <p>競争力のある金利と柔軟な支払いオプションで、お客様の経済的な健康管理にお役立てください。</p>

@@ -1,0 +1,27 @@
+﻿---
+ID: "c29477de-392b-416d-9602-7f0f1a155109"
+Parent: "f13cfa71-3c41-44bb-8818-49225dc99981"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/mainehealthdemo/Home/articles/empowering-young-adults/Data"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "91889eae-f1c0-46f0-b85f-02cd3d3c285b"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "567fa835-994f-440e-9df0-84a1cc9e0da2"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "567fa835-994f-440e-9df0-84a1cc9e0da2"

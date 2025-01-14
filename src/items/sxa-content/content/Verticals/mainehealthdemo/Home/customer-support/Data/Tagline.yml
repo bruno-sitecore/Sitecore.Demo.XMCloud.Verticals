@@ -1,0 +1,39 @@
+﻿---
+ID: "b6ab4555-479c-40bb-8c88-12f3fbb1f1be"
+Parent: "22ebb980-0d08-4d28-94b5-9659aff3cf9c"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: "/sitecore/content/Verticals/mainehealthdemo/Home/customer-support/Data/Tagline"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <h2>Take hold of your finances,<em style="color: var(--bg-accent);"> take hold of your life.</em></h2>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8921c591-56a8-42f9-ac35-da5800b84d98"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <h2>Prenez en main vos finances,<em style="color: var(--bg-accent);"> prenez en main votre vie.</em></h2>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f13757c3-dbee-4cd6-aee4-6728c2f7b4fc"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <h2>財政を管理し、<em style="color: var(--bg-accent);">人生を管理する。</em></h2>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f79bbcdb-e44e-4a47-8846-bf55e9f6da23"

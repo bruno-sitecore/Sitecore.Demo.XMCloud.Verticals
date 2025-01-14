@@ -1,0 +1,53 @@
+﻿---
+ID: "c5124003-4d45-4217-8056-30d7f9ee4a3d"
+Parent: "437a26c2-6283-4f57-a0d2-024a24be9ad3"
+Template: "c0943942-ae0f-4205-86fa-84884cce4a53"
+Path: "/sitecore/content/Verticals/mainehealthdemo/Home/personal/borrowing/line-of-credit/Data/Promo CTA 1"
+SharedFields:
+- ID: "e495efd3-5c43-45fc-af43-796a6b503716"
+  Hint: Image
+  Value: |
+    <image mediaid="{BDF30E30-9F1A-47FA-B161-412ADEC19107}" alt="Persona writing on a paper with pen" height="" width="" hspace="" vspace="" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: Embrace the power of a line of credit
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eec2e0cb-5f75-42c3-a4ea-e4690ea35f29"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: <p>Gain financial flexibility and peace of mind with our line of credit products, providing you with ongoing access to funds whenever you need them.</p>
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: Adoptez la puissance d'une ligne de crédit
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "814bb509-c344-48ea-9e7f-00031632b36f"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: <p>Gagnez en flexibilité financière et en tranquillité d'esprit avec nos produits de ligne de crédit, qui vous offrent un accès continu à des fonds quand vous en avez besoin.</p>
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: 信用枠の力を借りる
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5d038f44-8d34-4ddb-a809-1d34741981e4"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: <p>必要なときにいつでも資金をご利用いただける融資枠商品で、財務の柔軟性と安心感を得ることができます。</p>

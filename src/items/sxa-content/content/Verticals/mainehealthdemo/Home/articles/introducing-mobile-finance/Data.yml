@@ -1,0 +1,27 @@
+﻿---
+ID: "1b86af7b-4ffb-4ee1-8a19-0cd93b949de2"
+Parent: "9779c8e7-4367-4995-88d1-7238926c2673"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/mainehealthdemo/Home/articles/introducing-mobile-finance/Data"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7548fc2c-43a7-492e-a83a-b638ef3ef41f"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8a28d097-1b08-4781-81f4-3b97de965b93"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8a28d097-1b08-4781-81f4-3b97de965b93"

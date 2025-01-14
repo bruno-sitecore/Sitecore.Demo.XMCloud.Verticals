@@ -1,0 +1,13 @@
+﻿---
+ID: "dbf9ad38-fe2e-4520-b1a2-1c8277f8f0b0"
+Parent: "72939bc0-f296-45b7-8894-8ca39fed7c98"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Verticals/mainehealthdemo/FAQs
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1dc218ae-c80c-4ade-a2af-6f0829dbef55"

@@ -1,0 +1,65 @@
+﻿---
+ID: "6dfc023a-c25f-4c26-9344-35574d538026"
+Parent: "bec0934e-f755-4c42-b0fa-9c4b1f3114db"
+Template: "c0943942-ae0f-4205-86fa-84884cce4a53"
+Path: /sitecore/content/Verticals/mainehealthdemo/Data/Promos/Promo CTA/Promo CTA 2
+SharedFields:
+- ID: "e495efd3-5c43-45fc-af43-796a6b503716"
+  Hint: Image
+  Value: |
+    <image mediaid="{33A46EB4-2552-44FD-9241-0A16A91726EA}" alt="young-black-man-top-dancing" height="" width="" hspace="" vspace="" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: Unlock checking that grows with you
+    - ID: "507ba267-78fc-42f1-ac96-a1cb769b6de6"
+      Hint: Link
+      Value: |
+        <link linktype="internal" id="5E42AD98-BC40-4B45-84E8-2C3A63F98CA4" anchor="" querystring="" target="" class="" text="Get started" title=""/>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "86ba2946-0f9a-4da0-9a58-454ad57d244a"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: "As your finances grow, you will unlock more benefits and services from PLAY! Finance."
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: "Débloquez un compte-chèques qui évolue avec vous"
+    - ID: "507ba267-78fc-42f1-ac96-a1cb769b6de6"
+      Hint: Link
+      Value: |
+        <link linktype="internal" id="5E42AD98-BC40-4B45-84E8-2C3A63F98CA4" anchor="" querystring="" target="" class="" text="Commencez" title=""/>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f83a2b41-f281-444b-b31a-52c284bae248"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: "À mesure que vos finances augmentent, vous débloquerez plus d'avantages et de services de PLAY! financier."
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: あなたとともに成長するチェックを解除する
+    - ID: "507ba267-78fc-42f1-ac96-a1cb769b6de6"
+      Hint: Link
+      Value: |
+        <link text="はじめる" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{5E42AD98-BC40-4B45-84E8-2C3A63F98CA4}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c0915a88-1650-4310-921e-df8f686978f8"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: "お客様の財政が成長するにつれて、Play! finance から多くの特典やサービスが提供されます。"

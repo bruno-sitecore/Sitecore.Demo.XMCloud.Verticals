@@ -1,0 +1,18 @@
+﻿---
+ID: "624b13c7-1ed0-4882-82cc-d038c157d9df"
+Parent: "1f3820a7-6d08-4737-9b54-db3768e5f2fc"
+Template: "c0943942-ae0f-4205-86fa-84884cce4a53"
+Path: /sitecore/content/Verticals/mainehealthdemo/Home/personal/Data/Promo CTA 3
+SharedFields:
+- ID: "e495efd3-5c43-45fc-af43-796a6b503716"
+  Hint: Image
+  Value: |
+    <image mediaid="{70976DAC-80C5-468F-A6B9-773A068FCAF7}" alt="close-up-young-businesswoman" height="" width="" hspace="" vspace="" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ae79e9dc-4561-4ddf-b61b-62c86383f6d8"

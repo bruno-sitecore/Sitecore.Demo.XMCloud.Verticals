@@ -1,0 +1,27 @@
+﻿---
+ID: "a364a5d9-f595-4e71-8807-8553e0fd0002"
+Parent: "a8705b56-6869-4ae8-aa39-333819d3c562"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/mainehealthdemo/Home/articles/introducing-innovative-financial-solutions/Data"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a3737ebb-2fd6-4acf-9e9d-c634ed1b38e3"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "230a6dbd-d706-4dec-84ee-45de60bffb62"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "230a6dbd-d706-4dec-84ee-45de60bffb62"

@@ -1,0 +1,27 @@
+﻿---
+ID: "1fa20ed2-fa42-4d29-afb8-4b45b6182854"
+Parent: "a69d3f23-525e-415a-845f-100d41f09275"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: /sitecore/content/Verticals/mainehealthdemo/Data/Navigation Filters
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2ec6b26a-87df-4641-bf49-28726e882ec8"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f6e73f1b-9ed7-4a35-9c46-1056f912e0c5"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f6e73f1b-9ed7-4a35-9c46-1056f912e0c5"

@@ -1,0 +1,27 @@
+﻿---
+ID: "5502421d-06c1-4f50-a4da-5078b219dc93"
+Parent: "e4ba2db4-c049-4971-90b9-8f74e41ab055"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/mainehealthdemo/Home/articles/important-announcement-play-finance-client/Data"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ba1164fe-1a4b-4625-934a-b6f995cf7739"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e011df2c-2d66-4a2f-80fb-129002aa166e"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e011df2c-2d66-4a2f-80fb-129002aa166e"

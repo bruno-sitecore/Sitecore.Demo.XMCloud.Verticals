@@ -1,0 +1,31 @@
+﻿---
+ID: "4216e194-45a3-4858-9423-ae4e846fd16b"
+Parent: "7bac7f89-7b6e-4d37-93d7-f54155b2b2db"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Verticals/mainehealthdemo/Home/business/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "817fbe45-e484-40d9-9c7b-f2895110b6d0"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8a785807-0454-42ae-a960-115238a4c15e"
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: データ
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ba8a115a-9c40-40c6-8ed5-39856ed0cea4"

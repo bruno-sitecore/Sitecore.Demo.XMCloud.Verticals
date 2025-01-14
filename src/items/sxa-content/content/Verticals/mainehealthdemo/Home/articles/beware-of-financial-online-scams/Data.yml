@@ -1,0 +1,27 @@
+﻿---
+ID: "fceb9702-40bb-4c89-9675-f17aa091f4e9"
+Parent: "c2429647-8bd2-489e-b37e-a3f29d8ba68d"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/mainehealthdemo/Home/articles/beware-of-financial-online-scams/Data"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "47ede9db-ae4e-40c5-90cd-c3c9f7f32a43"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cb1beeb7-f135-479e-ba59-4eea42f97a6d"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cb1beeb7-f135-479e-ba59-4eea42f97a6d"

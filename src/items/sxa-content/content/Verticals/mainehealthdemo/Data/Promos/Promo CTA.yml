@@ -1,0 +1,27 @@
+﻿---
+ID: "bec0934e-f755-4c42-b0fa-9c4b1f3114db"
+Parent: "07d140fa-4361-4b50-ace7-042519692b9d"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: /sitecore/content/Verticals/mainehealthdemo/Data/Promos/Promo CTA
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "236b272e-5c22-4854-89bd-7e2a599af56e"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "406e25b9-8040-449c-be17-acf72513b53b"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "406e25b9-8040-449c-be17-acf72513b53b"

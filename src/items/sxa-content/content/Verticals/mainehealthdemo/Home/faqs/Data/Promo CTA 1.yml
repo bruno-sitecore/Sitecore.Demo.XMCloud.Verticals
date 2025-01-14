@@ -1,0 +1,53 @@
+﻿---
+ID: "dcf4bcae-a30e-4a14-93f3-4746b0ecb9a7"
+Parent: "829e4d77-47b0-4e36-baea-2c6461ef65ef"
+Template: "c0943942-ae0f-4205-86fa-84884cce4a53"
+Path: /sitecore/content/Verticals/mainehealthdemo/Home/faqs/Data/Promo CTA 1
+SharedFields:
+- ID: "e495efd3-5c43-45fc-af43-796a6b503716"
+  Hint: Image
+  Value: |
+    <image mediaid="{F4B401BD-4E1E-4CF5-A075-B82A45C65793}" alt="Jar of coins closeup" height="" width="" hspace="" vspace="" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: We've got answers
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "35ff3939-b274-4d88-a2c9-46e94e98edd1"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: <p>Whether you're new to managing your finances or a seasoned pro, our comprehensive FAQ section is designed to provide you with quick and clear answers to all your financial queries.</p>
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: Nous avons des réponses
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c778ac3f-4ae8-4754-bd6f-57d7e2a74123"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: <p>Que vous soyez novice en gestion de vos finances ou un expert chevronné, notre section FAQ complète est conçue pour vous fournir des réponses rapides et claires à toutes vos questions financières.</p>
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: 私たちの答え
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "23649a78-31f8-4ed4-956b-2454f32df3de"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: <p>財務管理の初心者からベテランまで、財務に関するあらゆるご質問に迅速かつ明快にお答えするために、総合的なFAQセクションをご用意しました。</p>

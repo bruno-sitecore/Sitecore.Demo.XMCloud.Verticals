@@ -1,0 +1,53 @@
+﻿---
+ID: "001e280e-9473-4525-a83a-f03de49ce0d4"
+Parent: "08759fc0-72c6-4dc5-ba2c-0ab68022db88"
+Template: "c0943942-ae0f-4205-86fa-84884cce4a53"
+Path: "/sitecore/content/Verticals/mainehealthdemo/Home/retirement-planning/building-wealth/Data/Promo CTA 1"
+SharedFields:
+- ID: "e495efd3-5c43-45fc-af43-796a6b503716"
+  Hint: Image
+  Value: |
+    <image mediaid="{B08893BD-6B27-44C1-A5A9-C23CFAB76A24}" alt="Grand kid sitting on lap of grandparents" height="" width="" hspace="" vspace="" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: Solving the retirement wealth mystery
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e34d59c6-8af6-4fb8-89bd-3d2c0b32be79"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: <p>Let us show you the secrets to building lasting wealth in retirement with our comprehensive guide. Designed to achieve financial independence and live your best retirement life.</p>
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: Résoudre le mystère de la richesse à la retraite
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6a7f4e61-72b4-412b-aefd-f86ea086c549"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: "<p>Laissez-nous vous dévoiler les secrets pour bâtir une richesse durable à la retraite avec notre guide complet. Conçu pour atteindre l'indépendance financière et vivre la meilleure vie possible à la retraite.</p>"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: 退職後の資産の謎を解く
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c6c33018-6d1a-4484-9e14-62c2ccc88269"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: <p>私たちの包括的なガイドで、退職後に永続的な富を築く秘訣をお教えしましょう。 経済的自立を達成し、最高のリタイア生活を送るためにデザインされています。</p>

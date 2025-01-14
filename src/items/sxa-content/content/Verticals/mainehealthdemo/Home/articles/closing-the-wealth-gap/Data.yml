@@ -1,0 +1,27 @@
+﻿---
+ID: "11b8950d-c77a-4d4e-90c8-4970a5298c58"
+Parent: "5072be2a-a76d-4a98-9903-61fb32a1df0b"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/mainehealthdemo/Home/articles/closing-the-wealth-gap/Data"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "508225bc-afcb-492c-b404-bcc0c9aa6e70"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a00873a7-7e19-4221-94f4-f7654ba4f0e1"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a00873a7-7e19-4221-94f4-f7654ba4f0e1"

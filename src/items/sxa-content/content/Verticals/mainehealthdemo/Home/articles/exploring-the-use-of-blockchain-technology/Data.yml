@@ -1,0 +1,27 @@
+﻿---
+ID: "82e3160b-b994-48ce-b1fd-468dda3f1284"
+Parent: "8dac81fc-b7de-4627-bd7c-c210dae265b1"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/mainehealthdemo/Home/articles/exploring-the-use-of-blockchain-technology/Data"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "33f1162b-24c8-4f92-a541-5479c447a6be"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6c01178a-830d-455f-a7a0-c7d2b368aea0"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6c01178a-830d-455f-a7a0-c7d2b368aea0"

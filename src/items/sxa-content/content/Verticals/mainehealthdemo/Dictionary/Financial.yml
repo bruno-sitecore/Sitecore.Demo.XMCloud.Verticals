@@ -1,0 +1,27 @@
+﻿---
+ID: "4d3d6f63-080e-4813-821e-863b88d9c4e4"
+Parent: "69254e61-90e9-4a14-933a-00f1a6765435"
+Template: "267d9ac7-5d85-4e9d-af89-99ab296cc218"
+Path: /sitecore/content/Verticals/mainehealthdemo/Dictionary/Financial
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3ea51b53-15d5-4110-aaf8-2c829e1b86bf"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b2c3c982-4ab4-4152-8469-97fe49555e4e"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b2c3c982-4ab4-4152-8469-97fe49555e4e"

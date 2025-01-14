@@ -1,0 +1,27 @@
+﻿---
+ID: "22ebb980-0d08-4d28-94b5-9659aff3cf9c"
+Parent: "77f661f1-5069-43a0-922e-0458022817c9"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/mainehealthdemo/Home/customer-support/Data"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d6fb1969-1a85-4620-bd50-4ac73d3d68f7"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ac113221-c86c-4832-b031-e36389e31c7e"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "816333cd-75fe-4332-bac3-0d1acffbf87e"

@@ -1,0 +1,27 @@
+﻿---
+ID: "f47668e1-6b31-42fc-8500-53cbc531f314"
+Parent: "a69d3f23-525e-415a-845f-100d41f09275"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Verticals/mainehealthdemo/Data/Button Styles
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "40d110e9-94bd-47b5-996f-c0bec423c773"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "82ce1b87-d282-43fc-b308-2ece6847532f"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "82ce1b87-d282-43fc-b308-2ece6847532f"

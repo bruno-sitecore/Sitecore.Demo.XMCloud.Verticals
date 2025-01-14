@@ -1,0 +1,27 @@
+﻿---
+ID: "bb18323a-8303-4080-acb0-7d8e3025d4c8"
+Parent: "71790d85-83fb-4412-bd47-0778c253bf15"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Verticals/mainehealthdemo/Presentation/Headless Variants/Promo CTA/Default
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7c87c006-cb62-47be-bda4-e67439afbbb4"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fb8dea5e-cfa5-4e92-aa31-3091e67c7b15"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fb8dea5e-cfa5-4e92-aa31-3091e67c7b15"

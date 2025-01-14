@@ -1,0 +1,65 @@
+﻿---
+ID: "4763d6e1-4b53-4ef9-a58f-15e59173db40"
+Parent: "c3ba86c6-cbfd-4d0a-9135-52bd7f8b3a20"
+Template: "54db209d-cd0f-49d9-ae4e-ecb65d72cc4d"
+Path: "/sitecore/content/Verticals/mainehealthdemo/Home/Data/Carousel - Retirement planning/Item 2"
+SharedFields:
+- ID: "ba78a3c0-7c60-40ba-8d42-6bf559d9ca72"
+  Hint: Image
+  Value: |
+    <image mediaid="{76B22D6F-4BB1-4C7B-AD7F-B39D1839D562}" alt="Plant growing out of glass jar full of coins" height="" width="" hspace="" vspace="" />
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{321B71A6-169C-4A12-905A-0BF5F5CCD7E3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
+      Hint: Title
+      Value: Grow your wealth with confidence
+    - ID: "3cba1ba9-9f99-4a72-9144-7f02b3bdd158"
+      Hint: Link
+      Value: |
+        <link text="Get started online" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{4D212108-AFDD-4CFD-AC6F-76678006DA01}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a7596e99-c880-4ffc-a7a3-380c97416f6a"
+    - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
+      Hint: Text
+      Value: <p>Wealth management made simple.</p>
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
+      Hint: Title
+      Value: Faites croître votre patrimoine en toute confiance
+    - ID: "3cba1ba9-9f99-4a72-9144-7f02b3bdd158"
+      Hint: Link
+      Value: |
+        <link text="Commencez en ligne" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{4D212108-AFDD-4CFD-AC6F-76678006DA01}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "198ea7b2-f46d-4260-9ba1-dad7976ae7a0"
+    - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
+      Hint: Text
+      Value: <p>Gestion de patrimoine simplifiée.</p>
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
+      Hint: Title
+      Value: 自信を持って資産を増やす
+    - ID: "3cba1ba9-9f99-4a72-9144-7f02b3bdd158"
+      Hint: Link
+      Value: |
+        <link text="オンラインで始める" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{4D212108-AFDD-4CFD-AC6F-76678006DA01}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "64be23a6-f047-49e9-9633-09539fe6966e"
+    - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
+      Hint: Text
+      Value: <p>資産管理をシンプルに。</p>
