@@ -22,6 +22,9 @@ SharedFields:
     {7574F439-0B48-48BE-BA6B-94B1A3CE01A3}
     {D912C30C-7A98-4A8D-A094-611D9AF9605D}
     {6DE1F4E9-815D-491D-923D-D5038100DBEE}
+- ID: "7d29b525-8118-45c6-a89b-773a6a576ec7"
+  Hint: SharedSites
+  Value: 
 - ID: "800dc4ed-0846-45ba-b112-19902af240f6"
   Hint: SharedMediaLibrary
   Value: "{0471133E-2103-481B-BE54-16612D58B5C2}"
@@ -47,4 +50,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "156c852e-b722-43f3-8235-3c6b1dbb3750"
+      Value: "b8f52ec5-b388-43c9-9506-b5146d244880"

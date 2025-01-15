@@ -1,0 +1,13 @@
+﻿---
+ID: "60598328-da55-4929-a15f-f6632cb04ee9"
+Parent: "72939bc0-f296-45b7-8894-8ca39fed7c98"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Verticals/mainehealthdemo/Common
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "672128a1-bc4b-4edd-a950-aa546974be21"

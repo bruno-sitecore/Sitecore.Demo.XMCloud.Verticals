@@ -11,6 +11,9 @@ SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{C2DC4690-AF44-48C7-BB21-90D1AD246732}"
+- ID: "1864e99d-c29a-40bf-96e0-b3e7896a013b"
+  Hint: UseLanguageSpecificLayout
+  Value: 
 - ID: "300fb7a0-b27f-44dd-9af0-b37a19723e0e"
   Hint: RouteTemplateName
   Value: Settings Route
@@ -19,7 +22,7 @@ SharedFields:
   Value: "{598C1F44-5FD6-4E7B-B77F-D09D2E4090EE}"
 - ID: "3e4f559f-8e59-4405-b50d-619811371f6c"
   Hint: Name
-  Value: Financial
+  Value: MaineHealthDemo
 - ID: "5764d2d4-724d-4313-a81b-9246c911faff"
   Hint: AppDatasourcesPath
   Value: "{A69D3F23-525E-415A-845F-100D41F09275}"
@@ -60,7 +63,7 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "59271b29-154f-4e0c-9bf4-b075e27b6939"
+      Value: "486d4465-a93a-40a1-a9c8-dd90956c552e"
 - Language: "fr-CA"
   Versions:
   - Version: 1

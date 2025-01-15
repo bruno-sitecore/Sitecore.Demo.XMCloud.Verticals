@@ -9,7 +9,7 @@ SharedFields:
   Value: People/32x32/cube_molecule.png
 - ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
   Hint: Blob
-  BlobID: "3fc18fcf-cb1c-4644-ab8f-71188a206209"
+  BlobID: "368df307-331a-4b57-a439-890213fe8949"
   Value: 
 - ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
   Hint: Size
@@ -38,7 +38,7 @@ Languages:
       Value: sitemap
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4b0cf9d6-2c94-40c7-8711-fb4ed54f6b18"
+      Value: "d29e81bf-fa0c-405e-8cab-4ca3775b2bfb"
     - ID: "ba8341a1-ff30-47b8-ae6a-f4947e4113f0"
       Hint: Description
       Value: Sitecore Experience Accelelator sitemap file

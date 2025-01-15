@@ -33,6 +33,12 @@ SharedFields:
 - ID: "85a7501a-86d9-4243-9075-0b727c3a6db4"
   Hint: Name
   Value: MaineHealthDemo
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 30
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: "<image mediaid='17c243f3-c84e-4765-a644-ccb91c5aab6a' />"
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{A0EECF65-09AD-4A10-AE46-7DF70106CFE6}"
@@ -43,7 +49,7 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "120c7a2a-1c16-4f68-ad5c-c20c38d17ca5"
+      Value: "9fb53c47-d955-4d28-9e30-bcc22722e586"
 - Language: "fr-CA"
   Versions:
   - Version: 1

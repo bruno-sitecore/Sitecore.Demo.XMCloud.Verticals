@@ -7,7 +7,7 @@ SharedFields:
 - ID: "edf38721-e3f4-4a5f-b94b-44b9749ef0fb"
   Hint: Image1
   Value: |
-    <image mediaid="{3BEB9DC1-C2E4-4330-8D31-66D8164A7141}" alt="PLAY! Finance" height="" width="" hspace="" vspace="" />
+    <image mediaid="85f7f2c7-83dc-4287-ae87-c33b6bef68c2" />
 Languages:
 - Language: en
   Versions:
@@ -22,15 +22,13 @@ Languages:
         <div class="ck-content"><p><a class="ck-link_selected" href="~/link.aspx?_id=2F6F7256F359470F828FEAFA9E4C2402&amp;_z=z">About us</a></p><p><a href="~/link.aspx?_id=C1E3FCE6B18C47BD8251773832CDD505&amp;_z=z">FAQs</a></p><p><a href="~/link.aspx?_id=77F661F1506943A0922E0458022817C9&amp;_z=z">Customer support</a></p></div>
     - ID: "342fb66b-0e4b-419d-ba86-2355e33ee1bf"
       Hint: Title1
-      Value: "PLAY! Finance"
+      Value: About MaineHealth
     - ID: "4770eb87-8856-4251-b831-6c8522c39da1"
       Hint: Copyright
       Value: Copyright © Sitecore
     - ID: "4bf70960-7097-4f87-a67a-8a7e87d1cd01"
       Hint: Text4
-      Value: |
-        <p><a href="/?utm_campaign=business">Business campaign</a></p>
-        <p><a href="/?utm_campaign=retirement">Retirement campaign</a></p>
+      Value: 
     - ID: "63ec28c9-bceb-4180-ba86-5a6b3c975d52"
       Hint: Link1
       Value: |
@@ -41,7 +39,7 @@ Languages:
         <link linktype="external" url="https://www.sitecore.com/legal" target="" text="Terms of Use" title="" class=""/>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "eb15d5a2-d64e-421b-b410-c6eb457a4cc2"
+      Value: "12d77c0c-370f-4098-9609-2876e881e574"
     - ID: "92612ddf-b3fd-4597-a655-de6da2eb553f"
       Hint: Text3
       Value: |
@@ -63,7 +61,7 @@ Languages:
       Value: Resources
     - ID: "f17614b2-487a-472c-a509-3e56df0930d4"
       Hint: Title4
-      Value: Quick links
+      Value: 
 - Language: "fr-CA"
   Versions:
   - Version: 1
