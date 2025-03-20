@@ -1,0 +1,13 @@
+﻿---
+ID: "704df2bf-4ddb-4daf-a777-8c33ec3821c0"
+Parent: "4f91d575-6dfd-4223-80a1-9bd0106c8f8e"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Regions/Mobile App/Dialog/Content
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5f2ad974-1483-4b53-b9c6-fa103ca08e00"

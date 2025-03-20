@@ -1,0 +1,13 @@
+﻿---
+ID: "eb5eeb53-4c92-416e-8004-54b51821a881"
+Parent: "e7855124-aa10-4f44-bcc8-4ecd697c7c06"
+Template: "aabbb856-2ad1-4c49-a01a-f61e2278830b"
+Path: /sitecore/content/All Channels/FAQs/FICO Scores
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a1017043-2c8a-474b-bb28-81118f1085ff"

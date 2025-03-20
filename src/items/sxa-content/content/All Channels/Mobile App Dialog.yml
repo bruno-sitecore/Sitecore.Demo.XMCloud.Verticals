@@ -1,0 +1,13 @@
+﻿---
+ID: "2a777caa-bef3-4c7d-ba22-a03dbb10bad3"
+Parent: "e23c5f85-d7ad-4620-b712-0270fb50d91e"
+Template: "a88825eb-310e-4d9f-82c0-bf22ba76f0cd"
+Path: /sitecore/content/All Channels/Mobile App Dialog
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7fda7311-e5c4-4f03-96c1-e2b79a8a7545"

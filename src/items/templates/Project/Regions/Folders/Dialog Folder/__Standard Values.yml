@@ -1,0 +1,19 @@
+﻿---
+ID: "e2c4589b-46d0-4671-865d-135ba6209c4f"
+Parent: "a88825eb-310e-4d9f-82c0-bf22ba76f0cd"
+Template: "a88825eb-310e-4d9f-82c0-bf22ba76f0cd"
+Path: /sitecore/templates/Project/Regions/Folders/Dialog Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {4F91D575-6DFD-4223-80A1-9BD0106C8F8E}
+    {A88825EB-310E-4D9F-82C0-BF22BA76F0CD}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5fd3ebd5-b356-4259-ada8-fc2679c00d86"

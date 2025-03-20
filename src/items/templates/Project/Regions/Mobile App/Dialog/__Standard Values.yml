@@ -1,0 +1,23 @@
+﻿---
+ID: "5c889c10-0795-4e70-a7d1-57f2b09e03eb"
+Parent: "4f91d575-6dfd-4223-80a1-9bd0106c8f8e"
+Template: "4f91d575-6dfd-4223-80a1-9bd0106c8f8e"
+Path: /sitecore/templates/Project/Regions/Mobile App/Dialog/__Standard Values
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{E9B6C600-C6E8-4867-BCB7-8B0DC5F19840}"
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{E9B6C600-C6E8-4867-BCB7-8B0DC5F19840}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{C8FF2A20-ABA6-409B-AD69-955CD5219D07}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "10b27844-f729-47bd-8394-58f34cdcf027"

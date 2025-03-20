@@ -1,0 +1,27 @@
+﻿---
+ID: "b3c4c8c1-40fa-4ed1-806c-6b56a8e5dd55"
+Parent: "68c386f9-07f4-41e6-a230-993204779605"
+Template: "03588d68-e4b4-4534-b1fc-0d7b8c572e57"
+Path: /sitecore/content/All Channels/FAQs/Zelle/What are the best uses for Zelle
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4e08c566-19ff-457f-a1fe-901007772aa8"
+    - ID: "b572d0e7-1d94-499a-85ae-dfe7dc6b3995"
+      Hint: Question
+      Value: "What are the best uses for Zelle®?"
+    - ID: "e802677b-597b-427a-8fd1-0d97405a1ac5"
+      Hint: Answer
+      Value: |
+        <p style="color: #333333; background-color: #ffffff; margin: 1.6rem 0px 1.5rem; letter-spacing: -0.008rem; line-height: 2.8rem;">Zelle&reg; is designed for you to send money to family, friends, and people who you are familiar with such as a classmate, babysitter or a neighbor.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 1.6rem 0px 1.5rem; letter-spacing: -0.008rem; line-height: 2.8rem;">If you don't know the person, or if you aren't sure you will get what you paid for (for example, items bought from an online bidding or sales site), we recommend you do not use Zelle&reg;&nbsp;for these types of transactions, which are potentially high risk.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 1.6rem 0px 1.5rem; letter-spacing: -0.008rem; line-height: 2.8rem;">Neither Regions nor Zelle&reg;&nbsp;offers a protection program for any authorized payments made with Zelle&reg;&nbsp;&ndash; for example, if you do not receive the item you paid for or the item is not as described or as you expected.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 1.6rem 0px 1.5rem; letter-spacing: -0.008rem; line-height: 2.8rem;">If you wish to make a Zelle&reg;&nbsp;payment that exceeds the daily and monthly limits we have established for our customers' use of Zelle&reg;, you may use other payment methods such as Regions Bill Pay, Western Union&reg; and Wire Transfer. Fees may apply to these services.</p>

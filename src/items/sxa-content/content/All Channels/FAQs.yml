@@ -1,0 +1,13 @@
+﻿---
+ID: "e7855124-aa10-4f44-bcc8-4ecd697c7c06"
+Parent: "e23c5f85-d7ad-4620-b712-0270fb50d91e"
+Template: "aabbb856-2ad1-4c49-a01a-f61e2278830b"
+Path: /sitecore/content/All Channels/FAQs
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1d1b528e-5f23-46e7-9420-4c4793d53f5f"

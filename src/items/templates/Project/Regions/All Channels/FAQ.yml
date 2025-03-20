@@ -1,0 +1,23 @@
+﻿---
+ID: "03588d68-e4b4-4534-b1fc-0d7b8c572e57"
+Parent: "3b50732f-8a1c-48e7-966b-d1bd42776423"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Regions/All Channels/FAQ
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Applications/32x32/about.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{5136D0C2-1F84-48C0-BE8A-BCDDDEC82FAB}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "05a685a4-4c34-4252-b49e-5d1b2b98910f"

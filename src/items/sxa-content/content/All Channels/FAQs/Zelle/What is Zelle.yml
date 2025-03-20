@@ -1,0 +1,28 @@
+﻿---
+ID: "09beffa7-b31b-4740-90e8-3b4c2ba69b40"
+Parent: "68c386f9-07f4-41e6-a230-993204779605"
+Template: "03588d68-e4b4-4534-b1fc-0d7b8c572e57"
+Path: /sitecore/content/All Channels/FAQs/Zelle/What is Zelle
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ff013dc2-db92-4aeb-b275-8aca48d3836a"
+    - ID: "b572d0e7-1d94-499a-85ae-dfe7dc6b3995"
+      Hint: Question
+      Value: "What is Zelle®?"
+    - ID: "e802677b-597b-427a-8fd1-0d97405a1ac5"
+      Hint: Answer
+      Value: |
+        <p style="color: #333333; background-color: #ffffff; margin: 1.6rem 0px 1.5rem; letter-spacing: -0.008rem; line-height: 2.8rem;">
+        <p style="color: #333333; background-color: #ffffff; margin: 1.6rem 0px 1.5rem; letter-spacing: -0.008rem; line-height: 2.8rem;"><a href="https://www.regions.com/digital-banking/transfer-money-and-pay/send-money-with-zelle" style="color: #117788; background-color: transparent; border: 2px solid transparent;">Zelle</a>&reg; is a fast, and easy way to send money directly between almost any bank accounts in the U.S., typically within minutes<span style="line-height: 0;">1</span>. With just an email address or U.S. mobile phone number, Regions customers can send money to people you trust, regardless of where they bank<span style="line-height: 0;">2</span>.</p>
+        <p class="smaller-text" style="color: #333333; background-color: #ffffff; margin: 1.6rem 0px 1.5rem; letter-spacing: -0.008rem; line-height: 2.8rem;"><span style="line-height: 0;">1</span>&nbsp;Transactions typically occur in minutes when the recipient&rsquo;s email address or U.S. mobile number is already enrolled with Zelle&reg;.</p>
+        <p class="smaller-text" style="color: #333333; background-color: #ffffff; margin: 1.6rem 0px 1.5rem; letter-spacing: -0.008rem; line-height: 2.8rem;"><span style="line-height: 0;">2</span>&nbsp;Must have a bank account in the U.S. to use Zelle&reg;.</p>
+        </p>

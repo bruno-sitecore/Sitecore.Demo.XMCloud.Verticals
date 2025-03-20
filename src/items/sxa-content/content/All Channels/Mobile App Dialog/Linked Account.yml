@@ -1,0 +1,42 @@
+﻿---
+ID: "c00cd618-398e-4b69-86a5-1306b0ca9d2f"
+Parent: "2a777caa-bef3-4c7d-ba22-a03dbb10bad3"
+Template: "4f91d575-6dfd-4223-80a1-9bd0106c8f8e"
+Path: /sitecore/content/All Channels/Mobile App Dialog/Linked Account
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{E9B6C600-C6E8-4867-BCB7-8B0DC5F19840}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{C8FF2A20-ABA6-409B-AD69-955CD5219D07}"
+    - ID: "5dab38ec-e40a-4174-9d4f-5bab180cc157"
+      Hint: Key
+      Value: headline_linked_account
+    - ID: "606b8aa7-82bb-457d-986d-1442adb5c453"
+      Hint: Text
+      Value: Linked Account
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7c166fd1-a03d-4caa-bb5c-f842d3d13e5f"
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{C8FF2A20-ABA6-409B-AD69-955CD5219D07}"
+    - ID: "5dab38ec-e40a-4174-9d4f-5bab180cc157"
+      Hint: Key
+      Value: headline_linked_account
+    - ID: "606b8aa7-82bb-457d-986d-1442adb5c453"
+      Hint: Text
+      Value: Cuenta vinculada
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3a9c1101-2d9a-4d9d-9ee0-b87997d9d1e3"

@@ -1,0 +1,23 @@
+﻿---
+ID: "a88825eb-310e-4d9f-82c0-bf22ba76f0cd"
+Parent: "75f6808c-c387-4d0c-a115-13f91d698cc0"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Regions/Folders/Dialog Folder
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Applications/32x32/folder_green.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{E2C4589B-46D0-4671-865D-135BA6209C4F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c729e3cb-3cd9-40e5-8fb5-7a580ef5eea6"

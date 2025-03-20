@@ -1,0 +1,13 @@
+﻿---
+ID: "3bf269aa-849a-40e3-83ef-4f76403ac72c"
+Parent: "e7855124-aa10-4f44-bcc8-4ecd697c7c06"
+Template: "aabbb856-2ad1-4c49-a01a-f61e2278830b"
+Path: /sitecore/content/All Channels/FAQs/Quicken
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "87c2e54a-2f33-41ee-a0fc-0752fd5c29a2"

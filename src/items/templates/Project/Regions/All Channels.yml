@@ -1,0 +1,13 @@
+﻿---
+ID: "3b50732f-8a1c-48e7-966b-d1bd42776423"
+Parent: "3a413159-ebab-4f82-9ac9-dab0607b67b7"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/Regions/All Channels
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f7396295-7a27-4918-b4c3-fe9d9fc069e4"

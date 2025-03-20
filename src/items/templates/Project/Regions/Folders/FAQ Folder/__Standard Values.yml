@@ -1,0 +1,19 @@
+﻿---
+ID: "beae0891-eaeb-419f-9f9f-2cd1e530b1e3"
+Parent: "aabbb856-2ad1-4c49-a01a-f61e2278830b"
+Template: "aabbb856-2ad1-4c49-a01a-f61e2278830b"
+Path: /sitecore/templates/Project/Regions/Folders/FAQ Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {03588D68-E4B4-4534-B1FC-0D7B8C572E57}
+    {AABBB856-2AD1-4C49-A01A-F61E2278830B}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2c054b8a-ef7a-4b85-b56a-b13a8cd0787e"
