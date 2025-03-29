@@ -1,0 +1,27 @@
+﻿---
+ID: "c3eb2ca9-fab0-4093-9857-45bbdba7236b"
+Parent: "01175561-df02-48bf-b77f-c32c631f4849"
+Template: "aabbb856-2ad1-4c49-a01a-f61e2278830b"
+Path: /sitecore/content/Verticals/Financial/Data/FAQs/Quicken
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5a5a5f94-5412-4292-b4eb-230ed2a12a99"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "87c2e54a-2f33-41ee-a0fc-0752fd5c29a2"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "87c2e54a-2f33-41ee-a0fc-0752fd5c29a2"

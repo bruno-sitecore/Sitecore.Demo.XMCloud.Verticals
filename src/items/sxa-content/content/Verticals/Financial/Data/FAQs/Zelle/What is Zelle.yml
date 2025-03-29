@@ -1,0 +1,60 @@
+﻿---
+ID: "cea0f592-322a-40d7-9cfd-71e3eaeeceb6"
+Parent: "c7b6fe6f-9f68-4422-8594-36d8954ce96e"
+Template: "03588d68-e4b4-4534-b1fc-0d7b8c572e57"
+Path: /sitecore/content/Verticals/Financial/Data/FAQs/Zelle/What is Zelle
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "289bf9d1-1496-45b7-ac93-88bb4ffe5765"
+    - ID: "b572d0e7-1d94-499a-85ae-dfe7dc6b3995"
+      Hint: Question
+      Value: "What is Zelle®?"
+    - ID: "e802677b-597b-427a-8fd1-0d97405a1ac5"
+      Hint: Answer
+      Value: |
+        <p style="margin-left:0px;">&nbsp;</p><p style="margin-left:0px;"><a href="https://www.regions.com/digital-banking/transfer-money-and-pay/send-money-with-zelle">Zelle</a>® is a fast, and easy way to send money directly between almost any bank accounts in the U.S., typically within minutes1. With just an email address or U.S. mobile phone number, Regions customers can send money to people you trust, regardless of where they bank2.</p><p style="margin-left:0px;">1 Transactions typically occur in minutes when the recipient’s email address or U.S. mobile number is already enrolled with Zelle®.</p><p style="margin-left:0px;">2 Must have a bank account in the U.S. to use Zelle®.</p>
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ff013dc2-db92-4aeb-b275-8aca48d3836a"
+    - ID: "b572d0e7-1d94-499a-85ae-dfe7dc6b3995"
+      Hint: Question
+      Value: "What is Zelle®?"
+    - ID: "e802677b-597b-427a-8fd1-0d97405a1ac5"
+      Hint: Answer
+      Value: |
+        <p style="color: #333333; background-color: #ffffff; margin: 1.6rem 0px 1.5rem; letter-spacing: -0.008rem; line-height: 2.8rem;">
+        <p style="color: #333333; background-color: #ffffff; margin: 1.6rem 0px 1.5rem; letter-spacing: -0.008rem; line-height: 2.8rem;"><a href="https://www.regions.com/digital-banking/transfer-money-and-pay/send-money-with-zelle" style="color: #117788; background-color: transparent; border: 2px solid transparent;">Zelle</a>&reg; is a fast, and easy way to send money directly between almost any bank accounts in the U.S., typically within minutes<span style="line-height: 0;">1</span>. With just an email address or U.S. mobile phone number, Regions customers can send money to people you trust, regardless of where they bank<span style="line-height: 0;">2</span>.</p>
+        <p class="smaller-text" style="color: #333333; background-color: #ffffff; margin: 1.6rem 0px 1.5rem; letter-spacing: -0.008rem; line-height: 2.8rem;"><span style="line-height: 0;">1</span>&nbsp;Transactions typically occur in minutes when the recipient&rsquo;s email address or U.S. mobile number is already enrolled with Zelle&reg;.</p>
+        <p class="smaller-text" style="color: #333333; background-color: #ffffff; margin: 1.6rem 0px 1.5rem; letter-spacing: -0.008rem; line-height: 2.8rem;"><span style="line-height: 0;">2</span>&nbsp;Must have a bank account in the U.S. to use Zelle&reg;.</p>
+        </p>
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ff013dc2-db92-4aeb-b275-8aca48d3836a"
+    - ID: "b572d0e7-1d94-499a-85ae-dfe7dc6b3995"
+      Hint: Question
+      Value: "What is Zelle®?"
+    - ID: "e802677b-597b-427a-8fd1-0d97405a1ac5"
+      Hint: Answer
+      Value: |
+        <p style="color: #333333; background-color: #ffffff; margin: 1.6rem 0px 1.5rem; letter-spacing: -0.008rem; line-height: 2.8rem;">
+        <p style="color: #333333; background-color: #ffffff; margin: 1.6rem 0px 1.5rem; letter-spacing: -0.008rem; line-height: 2.8rem;"><a href="https://www.regions.com/digital-banking/transfer-money-and-pay/send-money-with-zelle" style="color: #117788; background-color: transparent; border: 2px solid transparent;">Zelle</a>&reg; is a fast, and easy way to send money directly between almost any bank accounts in the U.S., typically within minutes<span style="line-height: 0;">1</span>. With just an email address or U.S. mobile phone number, Regions customers can send money to people you trust, regardless of where they bank<span style="line-height: 0;">2</span>.</p>
+        <p class="smaller-text" style="color: #333333; background-color: #ffffff; margin: 1.6rem 0px 1.5rem; letter-spacing: -0.008rem; line-height: 2.8rem;"><span style="line-height: 0;">1</span>&nbsp;Transactions typically occur in minutes when the recipient&rsquo;s email address or U.S. mobile number is already enrolled with Zelle&reg;.</p>
+        <p class="smaller-text" style="color: #333333; background-color: #ffffff; margin: 1.6rem 0px 1.5rem; letter-spacing: -0.008rem; line-height: 2.8rem;"><span style="line-height: 0;">2</span>&nbsp;Must have a bank account in the U.S. to use Zelle&reg;.</p>
+        </p>

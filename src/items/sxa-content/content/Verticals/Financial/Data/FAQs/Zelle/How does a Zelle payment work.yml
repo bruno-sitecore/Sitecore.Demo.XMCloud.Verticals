@@ -1,0 +1,55 @@
+﻿---
+ID: "8f9e0bca-e1cb-4fd8-b825-f50a4aa23275"
+Parent: "c7b6fe6f-9f68-4422-8594-36d8954ce96e"
+Template: "03588d68-e4b4-4534-b1fc-0d7b8c572e57"
+Path: /sitecore/content/Verticals/Financial/Data/FAQs/Zelle/How does a Zelle payment work
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "63ddbfcf-b4e6-4eca-83be-402fa8f82c3e"
+    - ID: "b572d0e7-1d94-499a-85ae-dfe7dc6b3995"
+      Hint: Question
+      Value: "How does a Zelle® payment work?"
+    - ID: "e802677b-597b-427a-8fd1-0d97405a1ac5"
+      Hint: Answer
+      Value: |
+        <p style="color: #333333; background-color: #ffffff; margin: 1.6rem 0px 1.5rem; letter-spacing: -0.008rem; line-height: 2.8rem;">If you are a Regions Online Banking customer and are enrolled with Zelle&reg;, all you need is the email address or U.S. mobile phone number of the person&nbsp;to whom you wish to send money. The recipient must use a bank account in the U.S.&nbsp;</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 1.6rem 0px 1.5rem; letter-spacing: -0.008rem; line-height: 2.8rem;">Log in to&nbsp;<a href="https://www.regions.com/digital-banking/online-banking" style="color: #117788; background-color: transparent; border: 2px solid transparent;">Regions Online</a>&nbsp;or&nbsp;<a href="https://www.regions.com/digital-banking/mobile-banking" style="color: #117788; background-color: transparent; border: 2px solid transparent;">Mobile Banking</a>, then select &ldquo;Payments&rdquo; to view Zelle&reg;&nbsp;options. Choose an existing contact or enter a new contact&rsquo;s U.S.&nbsp;mobile phone number or email address, then send the money. The recipient is sent an email or text message with instructions to claim the funds. In most cases, the funds are available within minutes between enrolled users. Ask your recipient to enroll with Zelle&reg;&nbsp;before you send them money &ndash; this will help them get your payment more quickly. If the recipient is not yet enrolled with Zelle&reg;, it may take between 1-3 business days after the recipient has enrolled for the money to be available.</p>
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f626bec4-0b21-4fc2-92c6-d5567436f945"
+    - ID: "b572d0e7-1d94-499a-85ae-dfe7dc6b3995"
+      Hint: Question
+      Value: "How does a Zelle® payment work?"
+    - ID: "e802677b-597b-427a-8fd1-0d97405a1ac5"
+      Hint: Answer
+      Value: |
+        <p style="color: #333333; background-color: #ffffff; margin: 1.6rem 0px 1.5rem; letter-spacing: -0.008rem; line-height: 2.8rem;">If you are a Regions Online Banking customer and are enrolled with Zelle&reg;, all you need is the email address or U.S. mobile phone number of the person&nbsp;to whom you wish to send money. The recipient must use a bank account in the U.S.&nbsp;</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 1.6rem 0px 1.5rem; letter-spacing: -0.008rem; line-height: 2.8rem;">Log in to&nbsp;<a href="https://www.regions.com/digital-banking/online-banking" style="color: #117788; background-color: transparent; border: 2px solid transparent;">Regions Online</a>&nbsp;or&nbsp;<a href="https://www.regions.com/digital-banking/mobile-banking" style="color: #117788; background-color: transparent; border: 2px solid transparent;">Mobile Banking</a>, then select &ldquo;Payments&rdquo; to view Zelle&reg;&nbsp;options. Choose an existing contact or enter a new contact&rsquo;s U.S.&nbsp;mobile phone number or email address, then send the money. The recipient is sent an email or text message with instructions to claim the funds. In most cases, the funds are available within minutes between enrolled users. Ask your recipient to enroll with Zelle&reg;&nbsp;before you send them money &ndash; this will help them get your payment more quickly. If the recipient is not yet enrolled with Zelle&reg;, it may take between 1-3 business days after the recipient has enrolled for the money to be available.</p>
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f626bec4-0b21-4fc2-92c6-d5567436f945"
+    - ID: "b572d0e7-1d94-499a-85ae-dfe7dc6b3995"
+      Hint: Question
+      Value: "How does a Zelle® payment work?"
+    - ID: "e802677b-597b-427a-8fd1-0d97405a1ac5"
+      Hint: Answer
+      Value: |
+        <p style="color: #333333; background-color: #ffffff; margin: 1.6rem 0px 1.5rem; letter-spacing: -0.008rem; line-height: 2.8rem;">If you are a Regions Online Banking customer and are enrolled with Zelle&reg;, all you need is the email address or U.S. mobile phone number of the person&nbsp;to whom you wish to send money. The recipient must use a bank account in the U.S.&nbsp;</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 1.6rem 0px 1.5rem; letter-spacing: -0.008rem; line-height: 2.8rem;">Log in to&nbsp;<a href="https://www.regions.com/digital-banking/online-banking" style="color: #117788; background-color: transparent; border: 2px solid transparent;">Regions Online</a>&nbsp;or&nbsp;<a href="https://www.regions.com/digital-banking/mobile-banking" style="color: #117788; background-color: transparent; border: 2px solid transparent;">Mobile Banking</a>, then select &ldquo;Payments&rdquo; to view Zelle&reg;&nbsp;options. Choose an existing contact or enter a new contact&rsquo;s U.S.&nbsp;mobile phone number or email address, then send the money. The recipient is sent an email or text message with instructions to claim the funds. In most cases, the funds are available within minutes between enrolled users. Ask your recipient to enroll with Zelle&reg;&nbsp;before you send them money &ndash; this will help them get your payment more quickly. If the recipient is not yet enrolled with Zelle&reg;, it may take between 1-3 business days after the recipient has enrolled for the money to be available.</p>

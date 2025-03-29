@@ -1,0 +1,27 @@
+﻿---
+ID: "a68f15fd-3c68-42f2-a7ee-54645008a354"
+Parent: "01175561-df02-48bf-b77f-c32c631f4849"
+Template: "aabbb856-2ad1-4c49-a01a-f61e2278830b"
+Path: /sitecore/content/Verticals/Financial/Data/FAQs/FICO Scores
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f370243d-63b0-4915-b024-d648d1600504"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a1017043-2c8a-474b-bb28-81118f1085ff"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a1017043-2c8a-474b-bb28-81118f1085ff"

@@ -1,0 +1,27 @@
+﻿---
+ID: "01175561-df02-48bf-b77f-c32c631f4849"
+Parent: "5c48bd53-e997-45fc-b318-672cfa349bb3"
+Template: "aabbb856-2ad1-4c49-a01a-f61e2278830b"
+Path: /sitecore/content/Verticals/Financial/Data/FAQs
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1b7fa912-fe40-45e7-86fd-9540aa16a897"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1d1b528e-5f23-46e7-9420-4c4793d53f5f"
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1d1b528e-5f23-46e7-9420-4c4793d53f5f"
