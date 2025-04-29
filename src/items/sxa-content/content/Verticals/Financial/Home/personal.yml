@@ -82,7 +82,20 @@ Languages:
       Value: <r />
     - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
       Hint: __Final Renderings
-      Value: 
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{98C98F85-983C-4DAB-929F-93F74E49E6A3}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/Promo CTA 6"
+              s:id="{1A375FAC-6CC1-4A5A-A159-9BC6DBC66B80}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BE7077939-8F32-4C4F-AAAD-A7C53F623CE0%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=11"
+              s:ph="/headless-main/sxa-page-content/page-content-0-1" />
+          </d>
+        </r>
     - ID: "247be607-394a-4bf2-8c8a-509b07025dd9"
       Hint: Title
       Value: Personal
@@ -97,7 +110,7 @@ Languages:
       Value: Personal
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "42ee2bb7-3b6c-483f-b2f4-a9634cd7256c"
+      Value: "8fbca44d-28a5-4db9-ba07-e4e9ac5cd1a3"
 - Language: "fr-CA"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
